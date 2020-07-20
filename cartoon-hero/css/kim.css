@@ -5,6 +5,8 @@ body{
 	line-height: 30px;
 }
 
+/*header styles*/
+
 header{
 	background-color: #2D312C;
 	text-align: center;
@@ -35,6 +37,7 @@ main{
 
 main img{
 	max-width: 100%;
+    image-orientation: center;
 }
 
 h2{
